@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <header>
+        <img src="https://assets.onecompiler.app/4398pck94/4398pgq3e/Messenger_creation_2c2bd50c-bf3e-48e9-9cd5-d32ce4c50ee9.jpeg" alt="Profile Picture" class="profile-pic">
+        <h1>Trisha Anne Segovia Morales</h1>
+        <p>Computer Science Student | Dancer | Sustainability Enthusiast</p>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <div class="about-content">
+            <img src="https://assets.onecompiler.app/4398pck94/439qkcbpr/IMG20240811172554.jpg" alt="About Me Image" class="about-image">
+            <div class="about-text">
+                <p>Passionate about dancing</p>
+                <p>Loves sunset</p>
+                <p>Loves online games</p>
+                <p>Loves motorcyle and cars</p>
+                <p>19 years old.</p>
+                <p>2nd-year college student studying at STI DAVAO.</p>
+                <p>From BAGANGA, DAVAO ORIENTAL</p>
+            </div>
+        </div>
+        
+        <h2>HOMETOWN</h2>
+        <div class="project">
+            <div class="gallery">
+                <img src="https://assets.onecompiler.app/4398pck94/439qkcbpr/2022-03-09-14-18-13.webp" alt="Baganga">
+                <img src="https://assets.onecompiler.app/4398pck94/439qkcbpr/Curtain-Falls-636x426.webp" alt="Baganga">
+                <img src="https://assets.onecompiler.app/4398pck94/439qkcbpr/EaNs9XTU4AArcrW.jpg" alt="Baganga">
+                <img src="https://assets.onecompiler.app/4398pck94/439qkcbpr/4-1.jpg" alt="Baganga">
+            </div>
+            <h3>BAGANGA</h3>
+        </div>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>📧 Email: <a href="mailto:trishaannesegoviamorales@gmail.com">trishaannesegoviamorales@gmail.com</a></p>
+        <p>📘 Facebook: <a href="https://www.facebook.com/trisha.morales">Trisha Morales</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Trisha Morales. All rights reserved.</p>
+    </footer>
+</body>
+</html>
